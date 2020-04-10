@@ -24,7 +24,7 @@ SECRET_KEY = '((z!%7m87dw$g_h$#(94#qdg+f9^%34*oee%-=zmt$0r)m6#fd'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [ 'mfchaden.pythonanywhere.com']
 
 
 # Application definition
